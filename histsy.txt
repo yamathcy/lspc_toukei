@@ -48,5 +48,3 @@ install.packages("psych")
 library(psych)
 # サンプルデータで統計量を見てみる
 savehistory("C:/Users/match/Desktop/ToukeiBenkyokai_1/histsy.txt")
-savehistory("C:/Users/match/Desktop/ToukeiBenkyokai_1/histry.txt")
-# サンプルデータで統計量を見てみる
